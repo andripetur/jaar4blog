@@ -18,8 +18,8 @@ email: andripeturth@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog for my fourth and last year at HKU Muziek technology.  Collecting thoughts,
   research and tomfoolery into one convenient location.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andripetur.github.io/jaar4blog" # the base hostname & protocol for your site
+baseurl: "/jaar4blog" # the subpath of your site, e.g. /blog
+url: "https://andripetur.github.io" # the base hostname & protocol for your site
 twitter_username: andripetur
 github_username:  andripetur
 
